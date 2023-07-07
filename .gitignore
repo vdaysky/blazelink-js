@@ -1,0 +1,7 @@
+index.js
+index.ts
+*.js
+*.html
+*.map
+node_modules
+.idea
